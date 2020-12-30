@@ -9,6 +9,11 @@
 	border-radius: 7px;
 	border: 2px solid #F5F5F5;
 }
+@media (max-width: 1110px){
+	::-webkit-scrollbar{
+			display: none;
+	}
+}
 .conteyner{
 	max-width: 1110px;
 	margin: 0 auto;
